@@ -1,4 +1,4 @@
-# Act5. 
+# Act4. 
 **Alumno:** Jorge Emilio Nuñez Reyes
 
 ## Proyecto desplegado en GitHub Pages
@@ -10,9 +10,9 @@ https://emilioreyes2219.github.io/t3_act5_react/
 
 ## Descripción del proyecto
 
-Este proyecto fue desarrollado utilizando **React** con **Vite** como parte de la actividad **"Introducción a React - Fundamentos y Primer Componente"**.
+Este proyecto fue desarrollado utilizando **React** con **Vite** .
 
-La aplicación incluye los conceptos básicos de React solicitados en la actividad:
+La aplicación incluye los conceptos básicos de React solicitados en la actividad usando como ejemplo el video:
 
 - Un componente funcional llamado **Saludo**.
 - Un componente llamado **Tarjeta** que recibe y muestra datos mediante **props**.
@@ -52,8 +52,7 @@ La función **useState** permite crear y administrar el estado de un componente.
 
 
 
-https://github.com/emilioreyes2219/t3_act5_react
-
+https://github.com/emilioreyes2219/t3_act4_react
 ---
 
 ## e) Enlace del proyecto desplegado en GitHub Pages
